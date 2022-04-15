@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "mbbmod",
+  "version": "${version}",
+
+  "name": "More Building Blocks Mod",
+  "description": "This mod adds a lot of blocks. Enjoy!",
+  "authors": [
+    "Mrgdev!"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/more-building-blocks",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/mbbmod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mrgdev.mbbmod.MoreBuildingBlocksMod"
+    ]
+  },
+  "mixins": [
+    "mbbmod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
