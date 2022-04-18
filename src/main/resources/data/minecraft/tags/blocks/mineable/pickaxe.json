@@ -1,0 +1,34 @@
+{
+  "replace": false,
+  "values": [
+    "mbbmod:polished_tuff",
+    "mbbmod:polished_calcite",
+    "mbbmod:polished_dripstone",
+    "mbbmod:polished_basalt",
+    "mbbmod:tuff_bricks",
+    "mbbmod:calcite_bricks",
+    "mbbmod:dripstone_bricks",
+    "mbbmod:basalt_bricks",
+    "mbbmod:tuff_tiles",
+    "mbbmod:calcite_tiles",
+    "mbbmod:dripstone_tiles",
+    "mbbmod:basalt_tiles",
+
+    "mbbmod:tuff_wall",
+    "mbbmod:polished_tuff_wall",
+    "mbbmod:tuff_brick_wall",
+    "mbbmod:tuff_tile_wall",
+    "mbbmod:calcite_wall",
+    "mbbmod:polished_calcite_wall",
+    "mbbmod:calcite_brick_wall",
+    "mbbmod:calcite_tile_wall",
+    "mbbmod:dripstone_wall",
+    "mbbmod:polished_dripstone_wall",
+    "mbbmod:dripstone_brick_wall",
+    "mbbmod:dripstone_tile_wall",
+    "mbbmod:basalt_wall",
+    "mbbmod:polished_basalt_wall",
+    "mbbmod:basalt_brick_wall",
+    "mbbmod:basalt_tile_wall"
+  ]
+}

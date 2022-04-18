@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "mbbmod:polished_tuff"
+    }
+  },
+  "result": {
+    "item": "mbbmod:tuff_bricks",
+    "count": 4
+  }
+}
