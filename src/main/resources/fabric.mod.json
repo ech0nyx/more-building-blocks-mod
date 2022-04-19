@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "mbbmod",
-  "version": "${version}",
+  "version": "1.18.2-2.2.1",
 
   "name": "More Building Blocks Mod",
   "description": "This mod adds a lot of blocks. Enjoy!",
@@ -9,8 +9,8 @@
     "Mrgdev!"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/more-building-blocks",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": ""
   },
 
   "license": "MIT",
