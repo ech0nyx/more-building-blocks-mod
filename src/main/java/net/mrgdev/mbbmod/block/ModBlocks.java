@@ -14,7 +14,7 @@ import net.minecraft.util.registry.Registry;
 import net.mrgdev.mbbmod.item.ModItemGroup;
 
 public class ModBlocks {
-    // ---------------------------- SOLID BLOCKS ----------------------------
+    // ----------------------------- SOLID BLOCKS -----------------------------
 
     public static final Block POLISHED_TUFF = registerBlock("polished_tuff",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
