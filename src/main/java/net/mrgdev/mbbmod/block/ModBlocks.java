@@ -22,7 +22,13 @@ public class ModBlocks {
     public static final Block TUFF_BRICKS = registerBlock("tuff_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
 
+    public static final Block CRACKED_TUFF_BRICKS = registerBlock("cracked_tuff_bricks",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
     public static final Block TUFF_TILES = registerBlock("tuff_tiles",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
+    public static final Block CRACKED_TUFF_TILES = registerBlock("cracked_tuff_tiles",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
 
     public static final Block POLISHED_CALCITE = registerBlock("polished_calcite",
@@ -31,7 +37,13 @@ public class ModBlocks {
     public static final Block CALCITE_BRICKS = registerBlock("calcite_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
 
+    public static final Block CRACKED_CALCITE_BRICKS = registerBlock("cracked_calcite_bricks",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
     public static final Block CALCITE_TILES = registerBlock("calcite_tiles",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
+    public static final Block CRACKED_CALCITE_TILES = registerBlock("cracked_calcite_tiles",
             new Block(FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
 
     public static final Block POLISHED_DRIPSTONE = registerBlock("polished_dripstone",
@@ -40,7 +52,13 @@ public class ModBlocks {
     public static final Block DRIPSTONE_BRICKS = registerBlock("dripstone_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
 
+    public static final Block CRACKED_DRIPSTONE_BRICKS = registerBlock("cracked_dripstone_bricks",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
     public static final Block DRIPSTONE_TILES = registerBlock("dripstone_tiles",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
+    public static final Block CRACKED_DRIPSTONE_TILES = registerBlock("cracked_dripstone_tiles",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
 
     public static final Block POLISHED_BASALT = registerBlock("polished_basalt",
@@ -49,7 +67,13 @@ public class ModBlocks {
     public static final Block BASALT_BRICKS = registerBlock("basalt_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(1.75f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
 
+    public static final Block CRACKED_BASALT_BRICKS = registerBlock("cracked_basalt_bricks",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(1.75f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
     public static final Block BASALT_TILES = registerBlock("basalt_tiles",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(1.75f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
+    public static final Block CRACKED_BASALT_TILES = registerBlock("cracked_basalt_tiles",
             new Block(FabricBlockSettings.of(Material.STONE).strength(1.75f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
 
    // ---------------------------- WALLS ----------------------------
