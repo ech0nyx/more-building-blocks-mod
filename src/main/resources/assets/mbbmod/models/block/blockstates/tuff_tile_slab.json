@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mbbmod:block/tuff_tile_slab"
+    },
+    "type=double": {
+      "model": "mbbmod:block/tuff_tiles"
+    },
+    "type=top": {
+      "model": "mbbmod:block/tuff_tile_slab_top"
+    }
+  }
+}
