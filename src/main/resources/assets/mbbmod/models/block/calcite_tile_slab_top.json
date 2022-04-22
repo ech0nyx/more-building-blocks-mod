@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "mbbmod:block/calcite_tiles",
+    "top": "mbbmod:block/calcite_tiles",
+    "side": "mbbmod:block/calcite_tiles"
+  }
+}
