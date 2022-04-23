@@ -69,5 +69,14 @@
   "block.mbbmod.basalt_slab": "Basalt Slab",
   "block.mbbmod.polished_basalt_slab": "Polished Basalt Slab",
   "block.mbbmod.basalt_brick_slab": "Basalt Brick Slab",
-  "block.mbbmod.basalt_tile_slab": "Basalt Tile Slab"
+  "block.mbbmod.basalt_tile_slab": "Basalt Tile Slab",
+
+  "block.minecraft.polished_basalt": "Basalt Pillar",
+  "block.minecraft.polished_blackstone_bricks": "Blackstone Bricks",
+  "block.minecraft.polished_blackstone_brick_wall": "Blackstone Brick Wall",
+  "block.minecraft.polished_blackstone_brick_stairs": "Blackstone Brick Stairs",
+  "block.minecraft.polished_blackstone_brick_slab": "Blackstone Brick Slab",
+  "block.minecraft.chiseled_polished_blackstone": "Chiseled Blackstone",
+
+  "itemGroup.mbbmod.more_building_blocks": "More Building Blocks"
 }

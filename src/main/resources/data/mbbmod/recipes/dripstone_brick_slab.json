@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mbbmod:dripstone_bricks"
+    }
+  },
+  "result": {
+    "item": "mbbmod:dripstone_brick_slab",
+    "count": 6
+  }
+}

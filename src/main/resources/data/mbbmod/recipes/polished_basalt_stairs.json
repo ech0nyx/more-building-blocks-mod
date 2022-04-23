@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "##",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mbbmod:polished_basalt"
+    }
+  },
+  "result": {
+    "item": "mbbmod:polished_basalt_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "##",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mbbmod:dripstone_tiles"
+    }
+  },
+  "result": {
+    "item": "mbbmod:dripstone_tile_stairs",
+    "count": 4
+  }
+}

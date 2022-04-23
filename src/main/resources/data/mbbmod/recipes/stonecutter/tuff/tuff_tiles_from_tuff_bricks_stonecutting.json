@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mbbmod:tuff_bricks"
+  },
+  "result": "mbbmod:tuff_tiles",
+  "count": 1
+}

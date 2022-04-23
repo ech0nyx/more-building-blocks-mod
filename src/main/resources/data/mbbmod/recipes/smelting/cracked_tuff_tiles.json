@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mbbmod:tuff_tiles"
+  },
+  "result": "mbbmod:cracked_tuff_tiles",
+  "experience": 0.1,
+  "cookingtime": 200
+}

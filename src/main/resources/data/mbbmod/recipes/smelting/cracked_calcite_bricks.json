@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mbbmod:calcite_bricks"
+  },
+  "result": "mbbmod:cracked_calcite_bricks",
+  "experience": 0.1,
+  "cookingtime": 200
+}

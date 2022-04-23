@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mbbmod:tuff_tiles"
+    }
+  },
+  "result": {
+    "item": "mbbmod:tuff_tile_slab",
+    "count": 6
+  }
+}
