@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "mbbmod:tuff_tiles"
+    "item": "mbbmod:dripstone_tiles"
   },
   "result": "mbbmod:cracked_dripstone_tiles",
   "experience": 0.1,

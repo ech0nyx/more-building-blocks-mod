@@ -1,17 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "#  ",
-    "## ",
+    "###",
     "###"
   ],
   "key": {
     "#": {
-      "item": "mbbmod:polished_basalt"
+      "item": "minecraft:calcite"
     }
   },
   "result": {
-    "item": "mbbmod:polished_basalt_stairs",
-    "count": 4
+    "item": "mbbmod:calcite_wall",
+    "count": 6
   }
 }
