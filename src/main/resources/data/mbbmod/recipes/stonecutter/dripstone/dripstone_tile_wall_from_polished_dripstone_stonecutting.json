@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mbbmod:polished_dripstone"
+  },
+  "result": "mbbmod:dripstone_tile_wall",
+  "count": 1
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mbbmod:polished_basalt"
+  },
+  "result": "mbbmod:polished_basalt_wall",
+  "count": 1
+}

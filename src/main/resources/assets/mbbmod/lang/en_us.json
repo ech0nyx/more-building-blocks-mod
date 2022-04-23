@@ -73,10 +73,13 @@
 
   "block.minecraft.polished_basalt": "Basalt Pillar",
   "block.minecraft.polished_blackstone_bricks": "Blackstone Bricks",
+  "block.minecraft.cracked_polished_blackstone_bricks": "Cracked Blackstone Bricks",
   "block.minecraft.polished_blackstone_brick_wall": "Blackstone Brick Wall",
   "block.minecraft.polished_blackstone_brick_stairs": "Blackstone Brick Stairs",
   "block.minecraft.polished_blackstone_brick_slab": "Blackstone Brick Slab",
   "block.minecraft.chiseled_polished_blackstone": "Chiseled Blackstone",
+  "block.minecraft.polished_blackstone_button": "Blackstone Button",
+  "block.minecraft.polished_blackstone_pressure_plate": "Blackstone Pressure Plate",
 
   "itemGroup.mbbmod.more_building_blocks": "More Building Blocks"
 }

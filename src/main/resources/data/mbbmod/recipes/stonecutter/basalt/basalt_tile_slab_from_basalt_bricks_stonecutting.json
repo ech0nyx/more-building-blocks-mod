@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mbbmod:basalt_bricks"
+  },
+  "result": "mbbmod:basalt_tile_slab",
+  "count": 2
+}

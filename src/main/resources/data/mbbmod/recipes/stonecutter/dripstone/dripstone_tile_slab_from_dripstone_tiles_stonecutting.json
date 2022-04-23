@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mbbmod:dripstone_tiles"
+  },
+  "result": "mbbmod:dripstone_tile_slab",
+  "count": 2
+}
