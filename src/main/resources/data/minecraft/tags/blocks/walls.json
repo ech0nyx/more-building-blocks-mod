@@ -16,6 +16,9 @@
     "mbbmod:basalt_wall",
     "mbbmod:polished_basalt_wall",
     "mbbmod:basalt_brick_wall",
-    "mbbmod:basalt_tile_wall"
+    "mbbmod:basalt_tile_wall",
+
+    "mbbmod:stone_wall",
+    "mbbmod:smooth_stone_wall"
   ]
 }

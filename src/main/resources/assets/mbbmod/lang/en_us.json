@@ -37,6 +37,9 @@
   "block.mbbmod.basalt_brick_wall": "Basalt Brick Wall",
   "block.mbbmod.basalt_tile_wall": "Basalt Tile Wall",
 
+  "block.mbbmod.stone_wall": "Stone Wall",
+  "block.mbbmod.smooth_stone_wall": "Smooth Stone Wall",
+
   "block.mbbmod.tuff_stairs": "Tuff Stairs",
   "block.mbbmod.polished_tuff_stairs": "Polished Tuff Stairs",
   "block.mbbmod.tuff_brick_stairs": "Tuff Brick Stairs",
@@ -53,6 +56,8 @@
   "block.mbbmod.polished_basalt_stairs": "Polished Basalt Stairs",
   "block.mbbmod.basalt_brick_stairs": "Basalt Brick Stairs",
   "block.mbbmod.basalt_tile_stairs": "Basalt Tile Stairs",
+
+  "block.mbbmod.smooth_stone_stairs": "Smooth Stone Stairs",
 
   "block.mbbmod.tuff_slab": "Tuff Slab",
   "block.mbbmod.polished_tuff_slab": "Polished Tuff Slab",

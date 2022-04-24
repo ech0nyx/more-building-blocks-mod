@@ -39,6 +39,9 @@
     "mbbmod:basalt_brick_wall",
     "mbbmod:basalt_tile_wall",
 
+    "mbbmod:stone_wall",
+    "mbbmod:smooth_stone_wall",
+
     "mbbmod:tuff_stairs",
     "mbbmod:polished_tuff_stairs",
     "mbbmod:tuff_brick_stairs",
@@ -55,6 +58,8 @@
     "mbbmod:polished_basalt_stairs",
     "mbbmod:basalt_brick_stairs",
     "mbbmod:basalt_tile_stairs",
+
+    "mbbmod:smooth_stone_stairs",
 
     "mbbmod:tuff_slab",
     "mbbmod:polished_tuff_slab",

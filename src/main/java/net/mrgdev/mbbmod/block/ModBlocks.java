@@ -125,6 +125,14 @@ public class ModBlocks {
     public static final Block BASALT_TILE_WALL = registerBlock("basalt_tile_wall",
             new WallBlock(FabricBlockSettings.of(Material.STONE).strength(1.75f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
 
+    // ------- ADDITIONAL WALLS -------
+
+    public static final Block STONE_WALL = registerBlock("stone_wall",
+            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
+    public static final Block SMOOTH_STONE_WALL = registerBlock("smooth_stone_wall",
+            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(2.5f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
     // ---------------------------- STAIRS ----------------------------
 
     public static final Block TUFF_STAIRS = registerBlock("tuff_stairs",
@@ -174,6 +182,11 @@ public class ModBlocks {
 
     public static final Block BASALT_TILE_STAIRS = registerBlock("basalt_tile_stairs",
             new ModStairsBlock(ModBlocks.BASALT_TILES.getDefaultState(), FabricBlockSettings.of(Material.STONE).strength(1.75f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
+
+    // ------- ADDITIONAL STAIRS -------
+
+    public static final Block SMOOTH_STONE_STAIRS = registerBlock("smooth_stone_stairs",
+            new ModStairsBlock(Blocks.SMOOTH_STONE.getDefaultState(), FabricBlockSettings.of(Material.STONE).strength(2.5f).requiresTool()), ModItemGroup.MORE_BUILDING_BLOCKS);
 
     // ---------------------------- SLABS ----------------------------
 
