@@ -4,4 +4,4 @@ More Building Blocks is a mod that aims to add blocks that could be seen as 'mis
 
 The wiki is more up-to-date than this readme will ever be, so for information such as our Version History/changelogs, block set/material lists, refer to it instead.
 
-[https://github.com/ConsistencyPlus/ConsistencyPlus/wiki](https://github.com/ConsistencyPlus/ConsistencyPlus/wiki)
+[https://github.com/ech0nyx/more-builing-blocks-mod/wiki](https://github.com/ech0nyx/more-building-blocks-mod/wiki)
